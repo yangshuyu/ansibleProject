@@ -1,0 +1,14 @@
+{
+  "batch_id": 20160421160830888,
+  "host_info": "10.161.24.247,10.161.24.246,10.161.24.248",
+  "host_type": "2",
+  "prov_code": "76",
+  "sub_sys": "acct",
+  "task_id": 610000003,
+  "task_type": "1",
+  "vars": {
+    "dispatch_group": "bin_send",
+    "msg": "执行程序文件同步",
+    "adp-date": "201604211608"
+  }
+}
